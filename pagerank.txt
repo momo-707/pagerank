@@ -1,0 +1,5 @@
+A 0.2 B D E
+B 0.2 C D
+C 0.2 A B E
+D 0.2 C E
+E 0.2 A D
